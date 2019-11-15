@@ -20,7 +20,7 @@ existing `~/.tmux.conf` first)
 
 ```
 $ cd
-$ git clone https://github.com/mbtamuli/.tmux.git
+$ git clone git@github.com:mbtamuli/.tmux.git
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
